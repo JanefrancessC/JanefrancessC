@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-#Hi, I'm Chioma Okeke
+Hi, I'm Chioma Okeke
 
 - 🔭 I’m currently working on a Langjo app 📖 https://github.com/kavitappatil/LangJo with The Harmonies Team! and a C-language Prinf() https://github.com/JanefrancessC/printf
-- 🌱 I’m currently learning Bash Script and C language
+- 🌱 I’m currently learning Bash Script and <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+"/>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Would have been a Disc Jockey(DJ) or a pianist
 
