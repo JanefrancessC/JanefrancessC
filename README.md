@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JanefrancessC/JanefrancessC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 #Hi, I'm Chioma Okeke
 
 - 🔭 I’m currently working on a Langjo app 📖 https://github.com/kavitappatil/LangJo with The Harmonies Team! and a C-language Prinf() https://github.com/JanefrancessC/printf
@@ -35,4 +31,10 @@ Here's a list of my skills and tools:
 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
+
+<!--
+**JanefrancessC/JanefrancessC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
